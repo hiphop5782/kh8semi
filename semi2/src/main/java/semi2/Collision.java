@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 package semi2;
 
 public class Collision {
