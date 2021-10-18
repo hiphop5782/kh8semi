@@ -9,6 +9,8 @@ public class Collision {
 		System.out.println("두번째 이클립스!");
 		System.out.println("김동율");
 		System.out.println("김종엽");
+		System.out.println("홍성진");
+
 	}
 }
 
