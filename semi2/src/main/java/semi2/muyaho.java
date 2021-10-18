@@ -5,6 +5,7 @@ public class muyaho {
 		System.out.println("무야~호~");
 		System.out.println("무야~호~22");
 		System.out.println("무야~호~33");
+		System.out.println("무야호 4딸라");
 		
 		
 	}
