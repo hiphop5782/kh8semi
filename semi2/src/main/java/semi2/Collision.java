@@ -5,7 +5,7 @@ public class Collision {
 
 		System.out.println("장동현 왜안받아와져?");
 		System.out.println("노혜성");
-		System.out.println("홍성진");
+		System.out.println("홍성ㄴㄴ진");
 
 	}
 
