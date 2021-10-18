@@ -2,7 +2,7 @@ package semi2;
 
 public class Collision {
 	public static void main(String[] args) {
-		System.out.println("장동현s 크크루삥뽕");
+		System.out.println("장동현 크크루삥뽕");
 	}
 
 }
